@@ -10,4 +10,4 @@ my 5th STEP homework
  solver_2opt.py
 
 ## input_6.csv
-→2-opt法だとタイムアウト?
+→2opt法だとタイムアウト?
