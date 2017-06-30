@@ -7,7 +7,8 @@ my 5th STEP homework
 →全通り試した solver_all.py
 
 ・input_2.csv 〜 input_5.csv
-→第三者のコードを使って2opt法までやったが自分ではまだ solver_2opt.py
+→第三者のコードを書き換えて2opt法をやった。せこいと思ったので数値は載せていない。
+ solver_2opt.py
 
 ・input_6.csv
 →2-opt法だとタイムアウト?
